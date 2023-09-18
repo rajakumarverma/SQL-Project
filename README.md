@@ -18,7 +18,7 @@ The project structure may vary depending on its complexity and the specific prob
 ### Getting Started
 To get started with this SQL project, follow these steps:
 
-1. Clone the Repository: Clone this repository to your local machine using Git: git clone https://github.com/your-username/sql-project.git
+1. Clone the Repository: Clone this repository to your local machine using Git: git clone "mentioned here repository-url"
 
 2. Set Up Your Database: If the project requires a specific database or data source, make sure it's set up and accessible.
 
